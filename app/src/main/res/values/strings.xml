@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Midterm</string>
+    <string name="genre_string">Genre:</string>
+    <string name="initial_category">All</string>
+    <string name="filter_button">Filter</string>
+    <string name="application_name">AppName</string>
+    <string name="date_display">Date</string>
+    <string name="genre_display">Genre(s)</string>
+    <string name="dev_display">App Developer</string>
+    <string name="copyright_display">Copyright</string>
+    <string name="content_desc">application_image</string>
+</resources>
